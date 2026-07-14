@@ -63,22 +63,39 @@ Eight performance tests were conducted prior to publishing:
 
 ## Repository Structure
 India-s-agricultural-crop-production-analysis/
+
 ├── README.md
+
 ├── India Agriculture analysis project.twb
+
 ├── India's Agricultural Crop Production Analysis(1997-2021).xlsx
+
 ├── skillwallet_crop_cleaned.xlsx
+
 └── document/
+
 ├── 1. Ideation Phase/
+
 ├── 2. Requirement Analysis/
+
 ├── 3. Project Design Phase/
+
 ├── 4. Project Planning Phase/
+
 ├── 5. Performance Testing/
+
 ├── 6. Documentation and Demo/
+
 │   ├── Final_Report.docx
+
 │   └── demo audio.mp4
+
 └── 7. Project Development Phase/
+
 ├── 1. Preprocessing Steps and Business Questions.pdf
+
 ├── 2. Dashboard and Story Screenshots.pdf
+
 └── 3. Dataset Description.pdf
 
 ## Tech Stack
