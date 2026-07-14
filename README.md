@@ -1,6 +1,5 @@
 # India-s-agricultural-crop-production-analysis
 Interactive Tableau dashboard analyzing India's agricultural crop production (1997–2015) across states, seasons, and crops. Built for farmers, policy analysts, and investors to uncover trends and make data-driven agricultural decisions. Includes data preprocessing, dashboards, and a Tableau Story.
-# India's Agricultural Crop Production Analysis
 
 Live Dashboard: https://public.tableau.com/app/profile/divya.kauluri/viz/IndiaAgricultureanalysisproject
 
@@ -34,10 +33,10 @@ Cleaned dataset file: `skillwallet_crop_cleaned.xlsx`
 
 | # | Worksheet | Description |
 |---|-----------|--------------|
- 1  KPI Summary | National-level averages for yield, area, and production |
- 2  Trend of Yield | Yield trend from 1997 to 2021, peaking around 2018 |
- 3  State Map | State-wise production shown geographically |
- 4  Cultivated Area by Crop | Rice and wheat account for the largest cultivated area |
+| 1 | KPI Summary | National-level averages for yield, area, and production |
+| 2 | Trend of Yield | Yield trend from 1997 to 2021, peaking around 2018 |
+| 3 | State Map | State-wise production shown geographically |
+| 4 | Cultivated Area by Crop | Rice and wheat account for the largest cultivated area |
 | 5 | State-wise Cultivated Area | Uttar Pradesh and Madhya Pradesh lead in cultivated area |
 | 6 | Leading States by Production | Ranks states by total production |
 | 7 | Year-wise Production | National production trend over time |
