@@ -1,8 +1,6 @@
 # India-s-agricultural-crop-production-analysis
 Interactive Tableau dashboard analyzing India's agricultural crop production (1997–2015) across states, seasons, and crops. Built for farmers, policy analysts, and investors to uncover trends and make data-driven agricultural decisions. Includes data preprocessing, dashboards, and a Tableau Story.
 
-# India's Agricultural Crop Production Analysis
-
 Live Dashboard: https://public.tableau.com/app/profile/divya.kauluri/viz/IndiaAgricultureanalysisproject
 
 An interactive Tableau dashboard analyzing Indian crop production data from 1997 to 2021, covering 36 states, 57 crops, and 345,407 records. The project covers the full workflow from raw data cleaning to dashboard design, storytelling, and performance testing.
@@ -64,7 +62,6 @@ Eight performance tests were conducted prior to publishing:
 - All charts, dashboard actions, and story transitions were tested across Chrome, Edge, and Safari with no defects found
 
 ## Repository Structure
-
 India-s-agricultural-crop-production-analysis/
 ├── README.md
 ├── India Agriculture analysis project.twb
